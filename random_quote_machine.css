@@ -1,0 +1,65 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #07F5EB;
+}
+
+.head{
+  font-family: 'Supermercado One', cursive;
+  padding-left: 50px;
+}
+
+#quote{
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+  font-family: 'Supermercado One', cursive;
+  color: #07F5EB;
+  font-size: 18px;
+}
+
+.boxed{
+  position: relative;
+  border: 0px solid #0728F5;
+  width: 450px;
+  height: 200px;
+  margin-left: 500px;
+  background-color: white;
+  border-radius: 2%;
+  padding-bottom: 280px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.btns{
+  padding-top: 70px;
+  padding-left: 10px;
+  padding-bottom: 40px;
+}
+
+.fa-tumblr-square{
+  padding-right: 10px;
+}
+
+.btn-1{
+  margin-left: 220px;
+  background-color: #08B1F1; 
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  position: relative;
+}
+
+.footer{
+  padding-left: 710px;
+  font-family: 'Supermercado One', cursive;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.link{
+  text-align: center;
+}
+
+
+
